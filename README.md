@@ -31,7 +31,7 @@ const daniele: StudentDeveloper = {
   name: "Daniele Romano",
   status: "Student Developer",
   currentStudies: "Web Application Development (2nd Year)",
-  learningFocus: ["Python", "JavaScript", "Vue.js", "Django", "Blockchain Basics"],
+  learningFocus: ["Python", "JavaScript", "Vue.js", "Django", "TailwindCSS", "HTML5/CSS3"],
   nextGoals: ["Master TypeScript", "Learn Solidity", "Build first DApp"],
   dreamRole: "Full Stack Blockchain Developer"
 };
@@ -48,6 +48,7 @@ const daniele: StudentDeveloper = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Next on My List**
@@ -94,17 +95,90 @@ $ evm-keyops sign --help
 **Why this project:** It's helping me understand blockchain fundamentals while building something useful for other developers starting their Web3 journey.
 
 ## 📊 My Progress
+**Current Tech Stack**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pepepe14&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pepepe14&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><strong>Python</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+<br><sub>Learning</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+<br><sub>Intermediate+</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+<br><sub>Intermediate+</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+<br><strong>Vue.js</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<br><strong>Tailwind</strong>
+<br><sub>Intermediate</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br><strong>Django</strong>
+<br><sub>Exploring</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+<br><sub>Intermediate</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
+**What I'm Working On**
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pepepe14&theme=react&hide_border=true&background=0D1117&currStreakLabel=58a6ff&fire=58a6ff&ring=58a6ff"/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🔨 Current Projects</h3>
+<strong>EVM KeyOps CLI</strong><br>
+<sub>Building a powerful CLI tool for blockchain developers</sub>
+</td>
+<td align="center" width="50%">
+<h3>📚 Learning Focus</h3>
+<strong>Full Stack Development</strong><br>
+<sub>Mastering modern web development practices</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>🌐 Exploring</h3>
+<strong>Web3 Fundamentals</strong><br>
+<sub>Understanding blockchain and decentralized systems</sub>
+</td>
+<td align="center" width="50%">
+<h3>💡 Daily Habit</h3>
+<strong>Continuous Learning</strong><br>
+<sub>Something new every single day</sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ## 🎓 Education & Learning Path
@@ -128,8 +202,8 @@ $ evm-keyops sign --help
 <td align="center" width="33%">
 
 **📖 Learning Now**
-- Strengthening Python skills
-- Building web apps with Vue.js
+- Advancing Python & Django skills
+- Building web apps with Vue.js & Tailwind
 - Understanding blockchain basics
 
 </td>
