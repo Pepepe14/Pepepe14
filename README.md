@@ -1,36 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola!%20Soy%20Daniele&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello!%20I'm%20Daniele&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Blockchain+Developer+🚀;DAW+Student+📚;Python+%26+Web3+Enthusiast+⛓️;19+años+explorando+el+futuro+💡&center=true&size=25&color=58a6ff&vCenter=true&width=600&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Blockchain+Developer+🚀;Web+App+Development+Student+📚;Python+%26+Web3+Enthusiast+⛓️;19+years+exploring+the+future+💡&center=true&size=25&color=58a6ff&vCenter=true&width=600&height=70">
 </div>
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## 🙋‍♂️ About Me
 
 ```typescript
 const daniele = {
-    edad: 19,
-    ubicación: "España 🇪🇸",
-    idiomas: ["🇪🇸 Español (Fluido)", "🇮🇹 Italiano (Fluido)", "🇬🇧 Inglés (Fluido)"],
-    educación: "2º DAW - Desarrollo de Aplicaciones Web",
-    objetivo: "Full Stack Blockchain Developer",
-    pasión: "Construir el futuro descentralizado",
-    estado: "Siempre aprendiendo algo nuevo 🚀"
+    age: 19,
+    location: "Spain 🇪🇸",
+    languages: ["🇪🇸 Spanish (Fluent)", "🇮🇹 Italian (Fluent)", "🇬🇧 English (Fluent)"],
+    education: "2nd Year - Web Application Development",
+    goal: "Full Stack Blockchain Developer",
+    passion: "Building the decentralized future",
+    status: "Always learning something new 🚀"
 }
 ```
 
-**🎯 Mi misión:** Convertirme en un desarrollador Full Stack especializado en Blockchain, creando soluciones innovadoras que conecten el mundo tradicional con Web3.
+**🎯 My mission:** To become a Full Stack developer specialized in Blockchain, creating innovative solutions that connect the traditional world with Web3.
 
 ---
 
-## 🛠️ Tecnologías que domino
+## 🛠️ Technologies I Master
 
 <div align="center">
 
-### 💻 Lenguajes & Frameworks
+### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,7 +41,7 @@ const daniele = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🔧 Herramientas & Sistemas
+### 🔧 Tools & Systems
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -53,7 +53,7 @@ const daniele = {
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Currently Learning
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,django,postgres,scss&theme=dark" />
@@ -70,24 +70,24 @@ const learning = {
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 🔑 [EVM KeyOps CLI](https://github.com/Pepepe14/evm-keyops-cli) - 🚧 En Desarrollo
-> **Herramienta CLI para operaciones avanzadas con claves EVM**
+### 🔑 [EVM KeyOps CLI](https://github.com/Pepepe14/evm-keyops-cli) - 🚧 In Development
+> **CLI tool for advanced EVM key operations**
 
 ```bash
-# Mi proyecto estrella 🌟
+# My flagship project 🌟
 evm-keyops --generate --network polygon
 evm-keyops --sign --message "Hello Web3!" --key private.key
 ```
 
 **🛠️ Tech Stack:** Python, Web3.py, Click, Cryptography  
-**✨ Features:** Generación de claves, firma de transacciones, validación multi-red  
-**🎯 Objetivo:** Simplificar las operaciones cryptográficas para desarrolladores Web3
+**✨ Features:** Key generation, transaction signing, multi-network validation  
+**🎯 Goal:** Simplify cryptographic operations for Web3 developers
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pepepe14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
@@ -100,40 +100,40 @@ evm-keyops --sign --message "Hello Web3!" --key private.key
 
 ---
 
-## 🎯 Hoja de Ruta 2025
+## 🎯 2025 Roadmap
 
 <div align="center">
 
-| Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
+| Q1 2026 | Q2 2026 | Q3 2026 | Q4 2026 |
 |---------|---------|---------|---------|
-| ✅ Dominar TypeScript | 🎯 Finalizar DAW | 🚀 Primer DApp | 🌟 Portfolio Pro |
+| ✅ Master TypeScript | 🎯 Complete Studies | 🚀 First DApp | 🌟 Pro Portfolio |
 | 🔥 EVM KeyOps v1.0 | ⚡ Django + PostgreSQL | 🔗 Smart Contracts | 💼 Job Ready |
-| 📱 Proyecto Vue.js | 🎨 UI/UX Avanzado | 🌐 Full Stack Web3 | 🚀 Startup Idea |
+| 📱 Vue.js Project | 🎨 Advanced UI/UX | 🌐 Full Stack Web3 | 🚀 Startup Idea |
 
 </div>
 
 ---
 
-## 🏆 Logros & Certificaciones
+## 🏆 Achievements & Certifications
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pepepe14&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
 </div>
 
-🎓 **En curso:** 2º DAW - Desarrollo de Aplicaciones Web  
-🌟 **Especialización:** Blockchain & Web3 Development  
-🔥 **Siguiente objetivo:** Certificación en Solidity  
+🎓 **Currently:** 2nd Year - Web Application Development  
+🌟 **Specialization:** Artificial Intelligence & BigData  
+🔥 **Next goal:** Solidity Certification  
 
 ---
 
-## 🌍 Conecta conmigo
+## 🌍 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pepepe14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
